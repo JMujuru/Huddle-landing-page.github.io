@@ -55,5 +55,5 @@ I'm going to polish my skills with media queries so i can build more responsive/
 
 ## Author
 
-- Website - [Joshua Mujuru](https://www.your-site.com)
-- Frontend Mentor - [@JMujuru](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Joshua Mujuru](#)
+- Frontend Mentor - [@JMujuru](https://www.frontendmentor.io/profile/JMujuru)
