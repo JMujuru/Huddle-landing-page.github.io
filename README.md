@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/JMujuru/Huddle-landing-page.github.io)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://jmujuru.github.io/Huddle-landing-page.github.io/)
 
 ## My process
 
